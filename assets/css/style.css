@@ -123,3 +123,116 @@ padding: 14px 24px;
 border-radius: 25px;
 }
 /* carousel_section_end */
+/* Occupation_Search_start */
+.Occupation_Search_start{
+    background-color: #F9F9F9;
+}
+.Occupation_Search_section{
+    text-align: center;
+}
+.Occupation_Search_section h3{
+    font-weight: bold;
+    color: var(--color2);
+}
+.Occupation_Search_section .btn{
+    background-color: var(--color2);
+    color: white;
+    border-radius: 20px;
+}
+/* Occupation_Search_end */
+/* We_thrive_because_section_start */
+.We_thrive_because_section{
+background-color: #F9F9F9;
+}
+.We_thrive_because_section_left{
+
+}
+.we_thrive_img{
+border-radius: 50%;
+}
+/* left_end */
+.We_thrive_because_right_section{
+
+}
+.We_thrive_because_right_section h5{
+    font-size: 18px;
+    color:#9F7178;
+    font-weight:bold;
+}
+.We_thrive_because_right_section h5::before{
+    content: "";
+    background: url("../img/thirft_1.png") no-repeat;
+    background-size: contain;
+    height: 25px;
+    width: 25px;
+    display:inline-block;
+    margin-right: 10px;
+}
+.We_thrive_because_right_section h1{
+    font-weight: bold;
+}
+.We_thrive_because_right_section h4{
+    font-size:20px;
+    color: #717178;
+    font-weight: 700;
+}
+.We_thrive_because_right_section p{
+    font-size: 20px;
+    color: #7A7E85;
+}
+/* We_thrive_because_section_end */
+/* student_global_office_section_start */
+.student_global_office_section{
+    background-color: #F9F9F9; 
+}
+.student_global_office_mid{
+    background-color: white;
+    border: 1px solid #F1F1F5;
+    box-shadow: 0px 0px 6px 1px plum;
+    border-radius: 10px;
+}
+.counter-box {
+	display: block;
+	/* background: #f6f6f6; */
+	padding: 40px 20px 37px;
+	text-align: center;
+    border-right: 1px solid plum;
+}
+.counter-box .svg-inline--fa {
+    display: var(--fa-display,inline-block);
+    height: 2em;
+    overflow: visible;
+    vertical-align: -0.125em;
+    margin-bottom: 10px;
+}
+
+.counter-box p {
+	margin: 5px 0 0;
+	padding: 0;
+	color: #909090;
+	font-size: 18px;
+	font-weight: 500
+}
+
+.counter-box i {
+	font-size: 60px;
+	margin: 0 0 15px;
+	color: #d2d2d2
+}
+
+.counter { 
+	display: block;
+	font-size: 32px;
+	font-weight: 700;
+	color:#282C92;
+	line-height: 28px
+}
+
+.counter-box.colored {
+      background:white;
+}
+
+.counter-box.colored p {
+	color:#74747B;
+}
+/* student_global_office_section_end */
