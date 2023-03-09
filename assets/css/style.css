@@ -236,3 +236,23 @@ border-radius: 50%;
 	color:#74747B;
 }
 /* student_global_office_section_end */
+/* .Frequently_asked_question_section_start */
+.Frequently_asked_question_section{
+    background-color: #F1F1F5;
+}
+.Frequently_asked_question_left{
+
+}
+.Frequently_asked_question_left_faq{
+    background-color: white;
+}
+.f_asked_question_accordian_details p{
+    font-size: 18px;
+    color: #88718E;
+    text-align: justify;
+}
+/* left_end */
+.Frequently_asked_question_right{
+
+}
+/* Frequently_asked_question_section_end */
