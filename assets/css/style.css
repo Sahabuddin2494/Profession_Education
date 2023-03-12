@@ -372,3 +372,76 @@ background-color: white;
     line-height: 48px;
 }
 /* Current_Scholarships_section_end */
+/* footer_section_start */
+.footer_section_start{
+    background-color:#091079;
+}
+.footer_section_one{
+
+}
+.footer_section_one_logo{
+
+}
+.footer_section_one_para{
+ text-align: justify;
+
+}
+.footer_section_one_para p{
+    font-size: 15px;
+    color: #d4d4d4;
+    line-height: 24px;
+
+}
+.footer_section_one_para_icon{
+
+}
+.footer_section_one_para_icon .svg-inline--fa {
+    display: var(--fa-display,inline-block);
+    height: 2em;
+    overflow: visible;
+    vertical-align: -0.125em;
+    background: yellow;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+/* one-end */
+.footer_section_two{
+
+}
+.footer_section_two_title{
+
+}
+.footer_section_two_title h5{
+    font-size: 18px;
+    color: var(--moniz-base,#fff);
+    font-weight: 700;
+    line-height: 28px;
+    margin-bottom:20px;
+}
+.footer_section_two_menu{
+
+}
+.footer_section_two_menu ul{
+padding-left: 0px;
+}
+.footer_section_two_menu ul li {
+
+}
+.footer_section_two_menu ul li a{
+    color: #d4d4d4;
+    font-size: 18px;
+    font-weight: 500;
+}
+.footer_section_four{
+    background-color: #121796;
+    border-radius: 10px;
+}
+.footer_section_four label{
+    color: white;
+    font-weight:bold;
+    font-size: 20px;
+    padding-bottom: 12px;
+}
+
+/* footer_section_end */
