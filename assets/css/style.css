@@ -374,7 +374,26 @@ background-color: white;
 /* Current_Scholarships_section_end */
 /* footer_section_start */
 .footer_section_start{
+    background-image: url("../img/site-footer-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.footer_section_start::before{
+    position: absolute;
+    content: "";
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height: 100%;
     background-color:#091079;
+    opacity: 0.8;
+    /* z-index: 2; */
+}
+.txt{
+    position: relative;
+    z-index: 3;
 }
 .footer_section_one{
 
@@ -475,3 +494,87 @@ display: inline-block;
 }
 /* copy_right-section_end */
 /* footer_section_end */
+
+/* about_us_slider_section_page_start */
+.about_us_p_slider{
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../img/About-us2.jpg");
+    position: relative;
+    overflow: hidden;
+}
+.about_us_p_slider::before{
+    position: absolute;
+    content: "";
+    top:0%;
+    left:0%;
+    width: 100%;
+    height: 100%;
+    background: rgba(var(--moniz-black-rgb,30,30,34),.5);
+    z-index: 1;
+}
+.about_us_p_slider_main{
+    text-align: center;
+    position: relative;
+    z-index: 3;
+}
+.about_us_p_slider_main p{
+text-transform: uppercase;
+color: white;
+margin-bottom: 0px;
+padding-top: 150px;
+}
+.about_us_p_slider_main h1{
+text-transform: capitalize;
+font-size: 60px;
+color: white;
+}
+/* about_us_slider-section_page_end */
+/* about_p_Empowering_section_start */
+.about_p_Empowering_section{
+
+}
+.about_p_Empowering_img{
+
+}
+.about_p_Empowering_img h5{
+    color: #717178;
+}
+.about_p_Empowering_right{
+
+}
+.about_p_Empowering_right p{
+    font-size: 18px;
+    color: #9F718E;
+    font-weight: 400;
+    opacity: 0.9;
+    text-align: justify;
+}
+/* about_p_Empowering_section_end */
+/* .A_Our_Valued_Partners_start */
+.A_Our_Valued_Partners_start{
+background-color: #F1F1F5;
+}
+.A_Our_Valued_Partners_title{
+
+}
+.A_Our_Valued_Partners_title h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.Valued_Australia{
+
+}
+.Valued_Australia h1{
+    font-weight: bold;
+}
+.Valued_Australia_details{
+
+}
+.Valued_Australia_details_one{
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
