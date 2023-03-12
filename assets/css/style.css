@@ -444,4 +444,34 @@ padding-left: 0px;
     padding-bottom: 12px;
 }
 
+/* . copy_right-section_start  */
+.copy_right_section{
+background-color: #121796;
+text-align: center;
+}
+.copy_right_section_title{
+ 
+}
+.copy_right_section_title ul{
+
+}
+.copy_right_section_title ul li{
+display: inline-block;
+}
+.copy_right_section_title ul li a{
+
+    color: white;
+    font-family: "Poppins", Sans-serif;
+    font-weight:600;
+    font-size:18px;
+    margin-bottom: 0px;
+}
+.copy_right_section_title-small{
+
+}
+.copy_right_section_title-small p{
+    color: #ffffff6e;
+    margin-bottom: 0px;
+}
+/* copy_right-section_end */
 /* footer_section_end */
