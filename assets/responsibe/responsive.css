@@ -110,4 +110,8 @@
                 margin-top: 0px;
                 font-size: 10px;
               }
+              .Current_Scholarships_title h1 {
+                text-align: center;
+                font-size: 33px;
+            }
 }

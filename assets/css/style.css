@@ -326,3 +326,49 @@ bottom:8%;
     padding-left:15px;
 }
 /* How_Apollo_section_end */
+/* our_value_partner_section_starrt */
+.our_value_partner_section_starrt{
+background-color: #F1F1F5;
+}
+.Our_Valued_Partners_slider{
+
+}
+.Our_Valued_Partners_slider_one{
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.our_value_partner_btn{
+    text-align: center;
+}
+.our_value_partner_btn .btn{
+    text-transform: capitalize;
+    background-color: #282C92;
+    padding: 10px 30px;
+    color: white;
+    font-weight:bold;
+    border-radius: 30px;
+}
+/* our_value_partner_section_end */
+/* Current_Scholarships_section_start */
+.Current_Scholarships_section{
+background-color: white;
+}
+.Current_Scholarships_slider{
+
+}
+.Current_Scholarships_slider_one{
+    border-radius: 10px;
+    overflow: hidden;
+}
+.Current_Scholarships_title{
+
+}
+.Current_Scholarships_title h1{
+    margin: 0;
+    font-weight: 700;
+    color: var(--moniz-black,#1e1e22);
+    font-size: 38px;
+    line-height: 48px;
+}
+/* Current_Scholarships_section_end */
