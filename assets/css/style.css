@@ -578,3 +578,42 @@ background-color: #F1F1F5;
     border-radius: 10px;
     overflow: hidden;
 }
+/* contact_page_nav_tap_section_start */
+.contact_page_nav_tap_section{
+
+}
+.contact_page_nav_tap_main{
+
+}
+.contact_page_nav_tap_main_nav_section{
+
+}
+.contact_page_nav_tap_main_nav_section .nav-tabs .nav-link {
+    font-size: 18px;
+    color: #63797B;
+}
+
+.contact_page_nav_tap_main_tab_section{
+
+}
+.contact_page_nav_tap_left{
+
+}
+.contact_page_nav_tap_main_tab_right{
+    background-color: #F1F1F5;
+    border-radius: 10px;
+}
+.contact_page_nav_tap_main_tab_right h5{
+color: #717178;
+font-size: 22px;
+font-weight: bold;
+padding-bottom: 20px;
+border-bottom: 1px solid #717178;
+}
+.contact_page_nav_tap_main_tab_right p{
+color: #717178;
+font-size: 19px;
+font-weight: 400;
+}
+
+/* contact_page_nav_tap_section_end */
