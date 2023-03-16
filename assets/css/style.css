@@ -419,7 +419,7 @@ background-color: white;
     height: 2em;
     overflow: visible;
     vertical-align: -0.125em;
-    background: yellow;
+    background:#121796;
     padding: 8px;
     border-radius: 4px;
 }
@@ -616,6 +616,18 @@ font-size: 19px;
 font-weight: 400;
 }
 
+.write_us_a_message_start{
+
+}
+.write_us_a_message_details{
+
+}
+.write_us_a_message_left{
+
+}
+.write_us_a_message_right{
+    
+}
 /* contact_page_nav_tap_section_end */
 
 /* Latest_Blogs_section_start */
