@@ -626,7 +626,30 @@ font-weight: 400;
 
 }
 .write_us_a_message_right{
-    
+
+}
+.write_us_a_message_common{
+
+}
+.C_Privacy_Information{
+
+}
+.C_Privacy_Information h3{
+
+}
+.C_Privacy_Information h5{
+color: #A3A5A8;
+font-weight: 400;
+line-height: 30px;
+}
+.C_Privacy_Information_btn{
+text-align: center;
+}
+.C_Privacy_Information_btn .btn{
+    border-radius: 30px;
+    font-weight: bold;
+    padding: 14px 30px;
+    background-color: #4145AB;
 }
 /* contact_page_nav_tap_section_end */
 
