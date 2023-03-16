@@ -715,3 +715,24 @@ text-align: center;
         padding-right:20px;
     }
     /* Latest_Blogs_section_end */
+    /* book_Your Information_start */
+    .book_your_information_section{
+
+    }
+    .book_your_information_title{
+
+    }
+    .book_your_information_title h3{
+        color:#1E1E62;
+    }
+    .further_information_details{
+
+    }
+    .Are_you_an_existing_client{
+
+    }
+    .Are_you_an_existing_client p{
+        color: #718389;
+        font-size: 20px;
+    }
+    /* book_Your Information_end */
